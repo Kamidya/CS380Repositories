@@ -1,7 +1,13 @@
 public class Dog {
 
+	private int age;
+
 	public Dog () {
 
 	}
 
+	public String toString() {
+
+		return "bark bark";
+	}
 }
